@@ -5,10 +5,10 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pl.javastart</groupId>
-	<artifactId>22_springstart_springJPA_springboot_ManyToManyRelation</artifactId>
+	<artifactId>26_springstart_springJPA_springBoot_JPQL_ParametrOfQuery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>22_springstart_springJPA_springboot_ManyToManyRelation</name>
-	<description>many to many</description>
+	<name>26_springstart_springJPA_springBoot_JPQL_ParametrOfQuery</name>
+	<description>springBoot JPQL and Parametr of query</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
